@@ -155,3 +155,5 @@ function t10() {
 }
 
 document.querySelector('.b-10').onclick = t10;
+
+console.log('hello');
